@@ -3,7 +3,6 @@
   "name": "page",
   "assets": {
     "directory": "./",      // HTML 파일이 있는 위치 (루트)
-    "binding": "ASSETS"     // 정적 자산 바인딩
   },
   "compatibility_date": "2026-02-04"
 }
